@@ -22,7 +22,7 @@ public class Member {
     }
 
     public void memberDetails(){
-        System.out.println("Memeber Id : "+this.memberId);
+        System.out.println("Member Id : "+this.memberId);
         System.out.println("Member Name : "+this.name);
         System.out.println("Issued Book : "+this.issuedBook);
     }
